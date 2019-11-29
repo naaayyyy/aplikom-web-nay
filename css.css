@@ -1,0 +1,78 @@
+/* NAVBAR */
+a{
+    color: rgb(8, 8, 8);
+    text-decoration: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+    font-weight: 500 ;
+}
+body {
+    margin: 0;
+    background-image: url(background/Exploded.jpg);
+   
+    
+}
+.Navbar{
+    background-image: url(background/Exploded.jpg);
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+.Nav-body{
+    padding: 5px;
+    width: 80%;
+    margin: auto;
+}
+.Nav-body ul{
+    margin:35px 10px;
+    padding: 0;
+    float: right;
+}
+.Nav-body li {
+border: solid 3px white;
+background-image: url(background/Exploded.jpg);
+}
+.Nav-body ul li{
+    display: inline ;
+    margin: 3px;
+    padding:3px 5px;
+}
+/* AKHIR NAVBAR */
+
+ /* CONTENT */
+ .Content {
+     width: 70%;
+     margin:auto;
+     padding: 145px 100px;
+     background-color: rgba(255, 255, 255, 0.63);
+     text-align: center;
+ }
+ li{
+    border: black;
+    padding: 0;
+}
+ h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 35px;
+    text-align: center;
+}
+.buton{
+    background-color: rgb(184, 135, 11);
+    padding: 5px;
+    text-align: center;
+    color:black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+/* FOOTER */
+.footer{
+    width: 89%;
+    margin: auto;
+    padding:0;
+    background-color: rgb(7, 6, 6);
+    text-align: center;
+    color: white;
+}
+
+
+

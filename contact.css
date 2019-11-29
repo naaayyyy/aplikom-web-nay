@@ -1,0 +1,58 @@
+body {
+    margin: 0;
+    background-image: url(background/Exploded.jpg);
+}
+/* NAVBAR */
+a {
+    display: inline;
+    text-decoration: none;
+    border: solid 2px black;
+    background-image: url(background/Exploded.jpg);
+    padding: 3px 15px;
+    color: black;
+    float: right;
+    font-size: 20px;
+    margin: 30px 70px;
+}
+.navbar-contact{
+    margin: 0;
+    padding:0;
+}
+.menu-logo{
+    margin: auto;
+    padding-left: 150px;
+}
+.menu-kembali{
+    border: solid 3px white;
+    background-image: url(background/Exploded.jpg);
+    margin: 20px;
+}
+.menu{
+    border: solid 3px rgba(218, 165, 32, 0.658);
+    text-align: center;
+    width: 79%;
+    margin: auto;
+}
+/* CONTACT */
+.contact{
+    width: 79%;
+    padding:0;
+    background-color: rgba(255, 255, 255, 0.87);
+    margin: auto;
+}
+.contact-me{
+    margin: auto;
+    text-align: center;
+    padding: 50px 100px;
+}
+/* FOOTER */
+.footer{
+    width: 80%;
+    margin: auto;
+    padding:0;
+    background-color: rgb(7, 6, 6);
+    text-align: center;
+    color: white;
+}
+
+

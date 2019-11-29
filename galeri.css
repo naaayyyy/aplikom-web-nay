@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    background-image: url(background/Exploded.jpg);
+}
+div{
+    text-align: center;
+    margin: auto;
+}
+h1{
+    margin: 30px;
+}
+a{
+    font-size: 30px;
+    text-decoration: none;
+    background-color: goldenrod;
+    padding: 20px 50px;
+    border:solid 3px black;
+    color: white;
+}
